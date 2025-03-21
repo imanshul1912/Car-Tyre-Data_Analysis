@@ -12,3 +12,8 @@ This project performs exploratory data analysis (EDA) on a car tyre dataset.
 
 ## Author
 - Anshul MIttal
+
+## 🗃️ 2. Data Analysis with SQL (MySQL)
+In this phase, I performed the following MySQL queries for deeper insights:
+- Data Cleaning: Checked missing values, duplicates, and formatted data.
+- Statistical Analysis: Used aggregate functions to summarize key metrics.
