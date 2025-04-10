@@ -21,6 +21,11 @@ Key Steps:
 - Visualizations: Demand for tube vs. tubeless tyres,correlation between selling price and rating.
 - Insights: Identified pricing patterns, top-performing brands, etc.
 
+
+📊 EDA Reports:
+- [Sweetviz Report](sweetviz_report.html) *(Download to view)*
+- [YData Profiling Report](ydata_profiling_report.html) *(Download to view)*
+
 ---
 
 ## 🗃️ 2. Data Analysis with SQL (MySQL)
